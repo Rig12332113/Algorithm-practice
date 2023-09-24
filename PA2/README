@@ -1,0 +1,12 @@
+Assignment name: b08501011_algorithm pa2
+Author: 何子勤
+====================================================================
+
+Operate following command under the directory of 
+b08501011_pa2
+
+make
+--> you should get a binary file called mps in ./bin .
+
+./bin/mps inputs/<input file name> outputs/<output file name>
+-->fill in the input file and the output file name to get the results.

@@ -1,0 +1,14 @@
+++++++++++++++++++++++++++++++++++++++++
++                                      +
++   Algorithm programming assignment3  +
++	      ID: B08501011            +
++              name: 何子勤             +
++                                      +
+++++++++++++++++++++++++++++++++++++++++
+
+Cycle breaking problem:
+
+1. 使用終端機並切換位置至資料夾
+2. 輸入make指令編譯並建立執行檔
+3. 輸入./bin/cb inputs/<input file name> outputs/<output file name>
+4. 輸出結果存於outputs資料夾內
